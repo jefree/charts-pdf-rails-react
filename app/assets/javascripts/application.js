@@ -14,4 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require highcharts
-//= require components/test
+//= require react
+//= require react_ujs
+//= require components
